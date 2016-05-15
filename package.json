@@ -1,6 +1,6 @@
 {
-  "name": "velocity-animate",
-  "version": "1.2.3",
+  "name": "velocity-animate-prism",
+  "version": "1.2.4",
   "description": "Accelerated JavaScript animation.",
   "keywords": [
     "velocity",
@@ -12,10 +12,6 @@
     "velocityjs",
     "javascript"
   ],
-  "homepage": "http://velocityjs.org",
-  "bugs": {
-    "url": "http://github.com/julianshapiro/velocity/issues"
-  },
   "license": "MIT",
   "authors": [
     {
@@ -24,7 +20,6 @@
     }
   ],
   "main": "velocity.js",
-  "repository": "julianshapiro/velocity",
   "files": [
     "velocity.js",
     "velocity.min.js",
